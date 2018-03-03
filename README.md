@@ -12,4 +12,4 @@ A FizzBuzz HTTP API implemention using ReSTFul Style Architecture
 ## Heroku Endpoint
 The api has been deployed at heroku, can be reached by accessing the following link
 
-**https://fizzbuzz-web-api.herokuapp.com/fizzbuzz/api/{limit}**
+**https://fizzbuzz-web-api.herokuapp.com/fizzbuzz/api/5**
